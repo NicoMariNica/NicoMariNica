@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NicoMariNica
 - 👀 I’m interested in Design 
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Java code
 - 📫 How to reach me nicko06nicko@yahoo.com
 
 <!---
