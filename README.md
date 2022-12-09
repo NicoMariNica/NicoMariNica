@@ -2,7 +2,7 @@
 - 👀 I’m interested in Design 
 - 🌱 I’m currently learning Salesforce
 - 💞️ I’m looking to collaborate on Java code
-- 📫 How to reach me nicko06nicko@yahoo.com
+- 📫 How to reach me onicanicoleta96@gmail.com
 
 <!---
 NicoMariNica/NicoMariNica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
